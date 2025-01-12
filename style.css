@@ -9,7 +9,7 @@ body{
 
 header{
   width: 420px;
-  height: 840px;
+  height: device-height;
   background-color: white;
   filter: blur(0px);
 }
